@@ -90,6 +90,7 @@ if(e.key=='ArrowUp' || e.key == ' '){
 }
 }
 document.addEventListener('keydown', control);
+document.addEventListener('onclick', control);
 
 
 
